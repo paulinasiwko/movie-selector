@@ -4,3 +4,13 @@ form,
 input {
   margin: 10px;
 }
+
+header {
+    /* background: rgb(66,66,66);
+    background: linear-gradient(90deg, rgba(66,66,66,1) 0%, rgba(48,48,48,1) 53%, rgba(133,133,133,1) 100%); */
+    background-image: url("../img/popcorn-background.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
